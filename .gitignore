@@ -1,0 +1,7 @@
+data/raw/
+data/cleaned/
+data/final/
+metadata/documents.csv
+metadata/cleaning_stats.json
+__pycache__/
+*.pyc
